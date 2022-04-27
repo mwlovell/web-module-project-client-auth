@@ -1,4 +1,4 @@
-# Client Auth Module Project: Auth Friends
+# Client Auth Module Project: Auth Friend s
 
 This module explored the clients-side authentication using auth-tokens. During the module you studied how the login, request and logout process works when using authentication and how to restrict access to certain route to logged in users. IN this project, you will practice each of these skills.
 
